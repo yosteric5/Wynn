@@ -1,5 +1,10 @@
 Changelog:
 
+(23/03/2016)
+
+Added Stats to Main Menu
+
+
 (21/03/2016)
 
 Added Changelog Screen :D
