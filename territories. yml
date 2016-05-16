@@ -1,1 +1,279 @@
+  - name: Llevigar Entrance
+      start: -2048,-4278
+      end: -1932,-4403
 
+    - name: Llevigar Gate East
+      start: -1919,-4648
+      end: -2006,-4746
+
+    - name: Llevigar Gate West
+      start: -2023,-4746
+      end: -2097,-4644
+
+    - name: Llevigar Farm Plains East
+      start: -2009,-4747
+      end: -1921,-4828
+
+    - name: Llevigar Farm Plains West
+      start: -2023,-4746
+      end: -2096,-4828
+   
+ - name: Hive
+      start: 381,-5413
+      end: 286,-5593
+
+ - name: Cinfras
+      start: -534,-4807
+      end: -375,-5088
+
+ - name: Llevigar Plains East Lower
+      start: -2024,-4831
+      end: -1923,-4909
+
+ - name: Llevigar  Plains West Lower
+      start: -2031,-4831
+      end: -2121,-4909
+
+ - name: Llevigar  Plains East Upper
+      start: -2038,-4912
+      end: -2131,-5000
+
+ - name: Llevigar  Plains West Upper
+      start: -2031,-4912
+      end: -1940,-5000
+
+ - name: Swamp West Lower
+      start: -2045,-5003
+      end: -2134,-5075
+
+ - name: Swamp East Lower
+      start: -2028,-5003
+      end: -1956,-5074
+
+ - name: Swamp East Mid
+      start: -1955,-5081
+      end: -2028,-5186
+
+ - name: Swamp West Mid
+      start: -2045,-5082
+      end: -2132,-5186
+
+ - name: Swamp East Mid-Upper
+      start: -2132,-5190
+      end: -2049,-5309
+
+ - name: Swamp West Mid-Upper
+      start: -2028,-5188
+      end: -1955,-5309
+
+ - name: Swamp East Upper
+      start: -2132,-5312
+      end: -2049,-5419
+
+ - name: Swamp West Upper
+      start: -1955,-5311
+      end: -2028,-5419
+
+ - name: Swamp Dark Forest Transition Lower
+      start: -1519,-5134
+      end: -1631,-5288
+
+ - name: Swamp Dark Forest Transition Mid
+      start: -1519,-5291
+      end: -1626,-5492
+
+ - name: Swamp Dark Forest Transition Upper
+      start: -1519,-5492
+      end: -1626,-5607
+
+ - name: Swamp Lower
+      start: -1649,-5134
+      end: -1763,-5241
+
+ - name: Entrance to Olux
+      start: -1649,-5246
+      end: -1764,-5396
+
+ - name: Olux
+      start: -1810,-5397
+      end: -1668,-5597
+
+ - name: Swamp Mountain Base
+      start: -1776,-5134
+      end: -1898,-5240
+
+ - name: Swamp Plains Basin
+      start: -1776,-5246
+      end: -1898,-5396
+
+ - name: Swamp Mountain Transition Lower
+      start: -2173,-5466
+      end: -2128,-5603
+
+ - name: Swamp Mountain Transition Mid
+      start: -2127,-5466
+      end: -2066,-5603
+
+ - name: Swamp Mountain Transition Mid-Upper
+      start: -2065,-5466
+      end: -1982,-5603
+
+ - name: Swamp Mountain Transition Upper
+      start: -1981,-5466
+      end: -1889,-5603
+
+ - name: Quartz Mines South West
+      start: -1776,-4352
+      end: -1609,-4524
+
+ - name:  Quartz Mines South East
+      start: -1391,-4352
+      end: -1607,-4524
+
+ - name: Quartz Mines North West
+      start: -1776,-4664
+      end: -1609,-4526
+
+ - name: Quartz Mines North East
+      start: -1391,-4664
+      end: -1607,-4526
+
+ - name: Green Gert Camp
+      start: -1930,-5099
+      end: -1816,-4968
+
+ - name: Gerten Lake
+      start: -1933,-4962
+      end: -1816,-4854
+
+ - name:  Gerten Road
+      start: -1927,-4852
+      end: -1815,-4700
+
+ - name: Meteor Crater
+      start: -1800,-5099
+      end: -1679,-4969
+
+ - name: Black Gert Camp
+      start: -1800,-4962
+      end: -1695,-4854
+
+ - name: Red Gert Camp
+      start: -1800,-4852
+      end: -1670,-4684
+
+ - name: Bucie North West
+      start: -1688,-5099
+      end: -1608,-4969
+
+ - name: Bucie South West
+      start: -1688,-4962
+      end: -1611,-4854
+
+ - name: Llevigar Farm
+      start: -1663,-4849
+      end: -1556,-4714
+
+ - name: Bucie North East
+      start: -1603,-4969
+      end: -1529,-5100
+
+ - name: Bucie South East
+      start: -1603,-4963
+      end: -1527,-4853
+
+ - name: Pre-Light Forest Transition
+      start: -1553,-4850
+      end: -1476,-4719
+
+ - name: Gerten Fortress
+      start: -1403,-4869
+      end: -1284,-4748
+
+ - name: Road To Light Forest
+      start: -1387,-4595
+      end: -1252,-4713
+
+ - name: Light Forest Entrance
+      start: -1243,-4574
+      end: -1157,-4724
+
+ - name: Efelim Village 
+      start: -1020,-4943
+      end: -1134,-5078
+
+ - name: Efelim South Plains
+      start: -1030,-4940
+      end: -1134,-4847
+
+ - name: Efelim East Plains
+      start: -1014,-4944
+      end: -949,-5079
+
+ - name: Efelim South East Plains
+      start: -949,-4942
+      end: -1014,-4847
+
+ - name: Light Forest North Entrance
+      start: -1134,-4708
+      end: -1030,-4845
+
+ - name: Light Forest Entrance
+      start: -1040,-4706
+      end: -1134,-4552
+
+ - name: Light Forest South Entrance
+      start: -1134,-4548
+      end: -1038,-4426
+
+ - name: Aldorei Valley West Entrance 
+      start: -736,-4428
+      end: -802,-4553
+
+ - name: Light Forest South Exit
+      start: -646,-4699
+      end: -733,-4559
+
+ - name: Light Forest North Exit
+      start: -733,-4707
+      end: -654,-4848
+
+ - name: Light Forest West Lower
+      start: -1014,-4428
+      end: -929,-4549
+
+ - name: Light Forest West Mid
+      start: -929,-4552
+      end: -1014,-4706
+
+ - name: Light Forest West Upper
+      start: -1014,-4708
+      end: -935,-4845
+
+ - name: Light Forest East Upper
+      start: -926,-4842
+      end: -831,-4945
+
+ - name: Light Forest East Mid
+      start: -834,-4839
+      end: -926,-4708
+
+ - name: Light Forest East Lower
+      start: -926,-4700
+      end: -805,-4552
+
+ - name: Hobbit River
+      start: -926,-4550
+      end: -806,-4428
+
+ - name: Mantis Nest
+      start: -736,-4559
+      end: -802,-4698
+
+ - name: Light Forest Canyon
+      start: -738,-4708
+      end: -818,-4840
+
+ - name: Path to Cinfras
+      start: -734,-4842
+      end: -818,-4953
